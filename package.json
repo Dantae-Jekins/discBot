@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@discordjs/builders": "^1.6.1",
+    "node-cron": "^3.0.2"
+  }
+}
